@@ -39,6 +39,6 @@ I'm Anmol, one of the team members of [Bagisto](https://github.com/bagisto/bagis
 <code><img title="GitHub" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
 ## 📊 Stats
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmol-Chauhan&show_icons=true&theme=dark)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmol-Chauhan&show_icons=true&theme=dark)
 
 [![@dwebkul1994's Holopin board](https://holopin.me/dwebkul1994)](https://holopin.io/@dwebkul1994)
